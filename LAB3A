@@ -1,0 +1,12 @@
+#include <stdio.h>
+int main()
+{
+    int i = 10;
+    int *ptr;
+    ptr = &i;
+    printf("Value of i: %d\n", i);
+    printf("Value of &i: %p\n", &i);
+    printf("Value of ptr: %p\n", ptr);
+    printf("Value of *ptr: %d\n", *ptr);
+    return 0;
+}
