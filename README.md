@@ -55,3 +55,15 @@ Explanation
 In this programme, the user wants to make a pattern by entering the number of rows and columns. The programme creates a pattern of stars with two halves: one with ascending rows and the other with descending rows, separated by a newline character. The number of stars in each row is determined by the value of "i" within the respective loops by using nested for loops.
 
 ![image](https://github.com/Vaishnavik283/Cprogramming/assets/148257063/b42efc2c-334b-4117-9083-fbfbed189cdd)
+
+LAB 3 A
+Title
+Write a program to demonstrate pointers. Declare a pointer ptr to interger and equate it to address of integer i. Print value of i, value of &i, value of ptr and value of *ptr.
+
+Theory
+A pointer is a variable that stores the memory address of another variable. It "points" to the location in memory where data is stored. int *ptr; declares a pointer ptr that can point to an integer.
+
+Explanation
+This program explain how pointers can be used to access memory addresses and the values stored at those addresses
+![image](https://github.com/Vaishnavik283/Cprogramming/assets/148257063/bbd76ff0-c058-4d73-9c79-368c7778e85f)
+
