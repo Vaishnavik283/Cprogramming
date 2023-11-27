@@ -92,3 +92,15 @@ Explanation
 The given C++ program demonstrates how to declare a character array, read user input into the array, and then display the input back to the user. A character array named word is declared. It has a size of 20 characters, meaning it can store up to 19 characters plus a null-terminator (a special character, '\0', used to mark the end of strings).
 ![image](https://github.com/Vaishnavik283/Cprogramming/assets/148257063/17bc10dc-d149-4b80-b5b2-1a17710526e8)
 
+LAB 6 B
+Title
+Display the array and reverse of the array on screen.
+
+Theory
+In programming, an array is a data structure that holds a collection of elements of the same data type, arranged sequentially in memory. The elements in an array are typically accessed by an index, with the first element having an index of 0, the second having an index of 1, and so on. An array may contain various types of data, including integers, characters, floating-point numbers, or even complex objects. To display the contents of an array on the screen, we typically use some form of output operation provided by the programming language, such as cout in C++. A loop, often a for or while loop, is used to iterate through the elements of the array, and each element is printed to the screen. The loop continues until all elements have been displayed. Reversing an array means changing the order of its elements such that the first element becomes the last, the second element becomes the second-to-last, and so on. A common approach to reversing an array is to use two pointers (one starting from the beginning, and the other from the end) and swap their elements iteratively. Alternatively, we can use a loop to create a new array that contains the elements of the original array in reverse order. For numeric arrays, we can also perform in-place reversal, which means that we directly modify the original array.
+
+Output
+
+
+
+<img width="792" alt="Screenshot 2023-11-27 095804" src="https://github.com/Vaishnavik283/Cprogramming/assets/148257063/9f9c71c8-3f54-4a44-a14f-0f9f53a13561">
