@@ -78,3 +78,17 @@ Explanation
 In this program swap1, which is used to swap the values of two integers using pointers, call by reference.
 
 <img width="921" alt="Screenshot 2023-11-27 094428" src="https://github.com/Vaishnavik283/Cprogramming/assets/148257063/2824d772-9edc-454a-941c-2d6b457fdbda">
+
+
+LAB 6A
+
+Title
+Write a program to declare a char array of 20 characters. Read a word (using scanf or cin >> ) into the char array.
+
+Theory
+In programming, a character array is a data structure used to store sequences of characters, such as strings, in a contiguous block of memory. It is a fundamental part of many programming languages and plays a crucial role in text processing, manipulation, and storage. To declare a character array, you specify its data type, the array name, and its size.
+
+Explanation
+The given C++ program demonstrates how to declare a character array, read user input into the array, and then display the input back to the user. A character array named word is declared. It has a size of 20 characters, meaning it can store up to 19 characters plus a null-terminator (a special character, '\0', used to mark the end of strings).
+![image](https://github.com/Vaishnavik283/Cprogramming/assets/148257063/17bc10dc-d149-4b80-b5b2-1a17710526e8)
+
