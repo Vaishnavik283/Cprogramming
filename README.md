@@ -67,3 +67,14 @@ Explanation
 This program explain how pointers can be used to access memory addresses and the values stored at those addresses
 ![image](https://github.com/Vaishnavik283/Cprogramming/assets/148257063/bbd76ff0-c058-4d73-9c79-368c7778e85f)
 
+
+LAB 3 B
+Write a program in C to demonstrate function call by value and call by reference by writing a swap function to swap two integers.
+
+Theory
+In C programming there are two ways to pass an arguments to functions : call by value and call by reference, These two methods determine how the function receives and operates on its parameters. In call by value, copies of the actual values are made and passed to the function. And In call by reference, arguments pass the memory address of the actual variables to the function.
+
+Explanation
+In this program swap1, which is used to swap the values of two integers using pointers, call by reference.
+
+<img width="921" alt="Screenshot 2023-11-27 094428" src="https://github.com/Vaishnavik283/Cprogramming/assets/148257063/2824d772-9edc-454a-941c-2d6b457fdbda">
