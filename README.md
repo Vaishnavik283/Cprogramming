@@ -53,3 +53,5 @@ To print star pattern.
 
 Explanation
 In this programme, the user wants to make a pattern by entering the number of rows and columns. The programme creates a pattern of stars with two halves: one with ascending rows and the other with descending rows, separated by a newline character. The number of stars in each row is determined by the value of "i" within the respective loops by using nested for loops.
+
+![image](https://github.com/Vaishnavik283/Cprogramming/assets/148257063/b42efc2c-334b-4117-9083-fbfbed189cdd)
