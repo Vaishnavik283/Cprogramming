@@ -41,3 +41,15 @@ Explanation
 By using for loop, table of multiplication for any number will be execute.
 
 ![image](https://github.com/Vaishnavik283/Cprogramming/assets/148257063/0dfaf8de-04d4-4911-9ba8-b73b0cfc54d8)
+
+
+LAB 2C :
+
+Title
+Write a program to display different star patterns on screen.
+
+Aim
+To print star pattern.
+
+Explanation
+In this programme, the user wants to make a pattern by entering the number of rows and columns. The programme creates a pattern of stars with two halves: one with ascending rows and the other with descending rows, separated by a newline character. The number of stars in each row is determined by the value of "i" within the respective loops by using nested for loops.
