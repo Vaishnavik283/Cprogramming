@@ -1,3 +1,4 @@
+
 OOPS LAB 
 
 LAB1
@@ -15,8 +16,8 @@ Compiling program is the process of converting high level programming language i
 
 
 
-LAB2 A
-LAB2(a)
+LAB 2 A
+
 
 
 Title
@@ -29,3 +30,14 @@ The sizeof operator in C is used to determine the size, in bytes, of a data type
 
 <img width="517" alt="Screenshot 2023-11-25 205417" src="https://github.com/Vaishnavik283/Cprogramming/assets/148257063/8ba67eef-8a1a-4a46-a43a-6495a9677e7f">
 
+LAB 2B
+Title
+Write a C program to read a number from user and print a table of multiplication for that number.
+
+Aim
+To print a table of a number.
+
+Explanation
+By using for loop, table of multiplication for any number will be execute.
+
+![image](https://github.com/Vaishnavik283/Cprogramming/assets/148257063/0dfaf8de-04d4-4911-9ba8-b73b0cfc54d8)
