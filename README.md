@@ -104,3 +104,8 @@ Output
 
 
 <img width="792" alt="Screenshot 2023-11-27 095804" src="https://github.com/Vaishnavik283/Cprogramming/assets/148257063/9f9c71c8-3f54-4a44-a14f-0f9f53a13561">
+
+
+LAB 5
+
+<img width="631" alt="Screenshot 2023-11-29 205654" src="https://github.com/Vaishnavik283/Cprogramming/assets/148257063/140ac7b8-b63f-4470-a18e-340cbd2993ec">
