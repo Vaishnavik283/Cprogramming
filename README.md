@@ -181,3 +181,19 @@ Main Loop: The program continues to execute until the user chooses to exit. It r
 
 
 <img width="478" alt="Screenshot 2023-11-29 211244" src="https://github.com/Vaishnavik283/Cprogramming/assets/148257063/3d7c6cd1-535d-402d-9d71-d34cc3b74ecb">
+
+
+
+LAB 14
+Title : LAB14-Queue
+Aim : Queue Implementation
+Algorithm :
+Enqueue (Add an element to the queue): If the queue is not full, we can add an element to it. If the queue is empty, set both the front and rear pointers to the first position. Otherwise, move the rear pointer to the next position and store the new element there.
+
+Dequeue (Remove an element from the queue): If the queue is not empty, we can remove an element from it. If the queue has only one element, set both the front and rear pointers to -1 (indicating an empty queue). Otherwise, move the front pointer to the next position.
+
+Display (Show all elements in the queue): If the queue is not empty, we can display its elements. Start from the front and move towards the rear, showing each element one by one.
+
+Peek (Get the front element without removing it): If the queue is not empty, we can see the element at the front without removing it. Simply display the element at the front position.
+<img width="428" alt="Screenshot 2023-11-29 213315" src="https://github.com/Vaishnavik283/Cprogramming/assets/148257063/75bdf7cc-fd4e-424e-b160-ba6e90735dcb">
+
