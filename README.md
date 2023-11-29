@@ -197,3 +197,42 @@ Display (Show all elements in the queue): If the queue is not empty, we can disp
 Peek (Get the front element without removing it): If the queue is not empty, we can see the element at the front without removing it. Simply display the element at the front position.
 <img width="428" alt="Screenshot 2023-11-29 213315" src="https://github.com/Vaishnavik283/Cprogramming/assets/148257063/75bdf7cc-fd4e-424e-b160-ba6e90735dcb">
 
+
+
+
+LAB18
+Aim : Graph Data Structure
+Algorithm :
+Adjacency Matrix to Adjacency List:
+
+Initialize an empty adjacency list for each vertex.
+
+For each row in the adjacency matrix: Create an empty list to represent the neighbors of the current vertex.
+
+For each entry in the row:
+
+If the entry is non-zero (indicating an edge):
+
+Add the corresponding column index to the list of neighbors for that vertex.
+
+Repeat steps 2-3 for each row in the matrix.
+
+The resulting lists represent the adjacency list for each vertex.
+
+Adjacency List to Adjacency Matrix:
+
+Initialize an empty adjacency matrix with all entries set to zero.
+
+For each vertex in the adjacency list:
+
+For each neighbor in the list:
+
+Set the corresponding entry in the adjacency matrix to 1.
+
+Repeat step 2 for each vertex in the adjacency list.
+
+The resulting matrix represents the adjacency matrix for the graph.
+
+
+
+<img width="693" alt="Screenshot 2023-11-29 213719" src="https://github.com/Vaishnavik283/Cprogramming/assets/148257063/b734aff5-02a2-4c61-a965-c74a3d8abc0a">
